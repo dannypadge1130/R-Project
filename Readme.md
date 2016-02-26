@@ -1,1 +1,2 @@
-R Projects for Coursera Johns Hopkins Program
+## R Projects
+### Johns Hopkins Coursera Course
